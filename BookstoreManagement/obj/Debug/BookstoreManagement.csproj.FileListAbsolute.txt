@@ -1,0 +1,463 @@
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\bin\Debug\BookstoreManagement.exe.config
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\bin\Debug\BookstoreManagement.exe
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\bin\Debug\BookstoreManagement.pdb
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.Properties.Resources.resources
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.exe
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.pdb
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\bin\Debug\ZstdNet.dll
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\bin\Debug\MySql.Data.xml
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.exe.config
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.LoginForm.resources
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.MenuAdminForm.resources
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.AboutForm.resources
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.HomeAdminForm.resources
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.BookEmployeeForm.resources
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.HomeEmployeeForm.resources
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.MenuEmployeeForm.resources
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.RegisterForm.resources
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.EmployeeForm.resources
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.CustomerAdminForm.resources
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.DeptReportAdminForm.resources
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.InventoryReportAdminForm.resources
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.AccountDetailAdminForm.resources
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.AccountDetailEmployeeForm.resources
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.BookAdminForm.resources
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.CustomerEmployeeForm.resources
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.BillForms.AddNewBillForm.resources
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.BillForms.AddNewBookForm.resources
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.BillForms.BillDetailsForm.resources
+C:\Users\Admin\Desktop\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.BillForms.BillEmployeeForm.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\bin\Debug\BookstoreManagement.exe.config
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\bin\Debug\BookstoreManagement.exe
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\bin\Debug\BookstoreManagement.pdb
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\bin\Debug\MySql.Data.dll
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\bin\Debug\Google.Protobuf.dll
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\bin\Debug\ZstdNet.dll
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\bin\Debug\BouncyCastle.Crypto.dll
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\bin\Debug\Ubiety.Dns.Core.dll
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\bin\Debug\System.Memory.dll
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\bin\Debug\System.Buffers.dll
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\bin\Debug\K4os.Compression.LZ4.dll
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\bin\Debug\K4os.Hash.xxHash.dll
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\bin\Debug\System.Numerics.Vectors.dll
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\bin\Debug\MySql.Data.xml
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.AssemblyReference.cache
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.exe.config
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.AboutForm.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.LoginForm.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.RegisterForm.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.Properties.Resources.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.GenerateResource.cache
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.CoreCompileInputs.cache
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.exe
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.pdb
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\bin\Debug\BookstoreManagement.exe.config
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\bin\Debug\BookstoreManagement.exe
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\bin\Debug\BookstoreManagement.pdb
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\bin\Debug\Google.Protobuf.dll
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\bin\Debug\ZstdNet.dll
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\bin\Debug\BouncyCastle.Crypto.dll
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\bin\Debug\Ubiety.Dns.Core.dll
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\bin\Debug\System.Memory.dll
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\bin\Debug\System.Buffers.dll
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\bin\Debug\K4os.Compression.LZ4.dll
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\bin\Debug\K4os.Hash.xxHash.dll
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\bin\Debug\System.Numerics.Vectors.dll
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\bin\Debug\MySql.Data.xml
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.AssemblyReference.cache
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.exe.config
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.AboutForm.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.AccountDetailAdminForm.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.AddNewEntryForm.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.BookAdminForm.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.CustomerAdminForm.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.EmployeeForm.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.EntryBookAdminForm.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.EntryDetailsForm.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.HomeAdminForm.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.MenuAdminForm.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.AccountDetailEmployeeForm.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.BillForms.AddNewBillForm.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.BillForms.AddNewBookForm.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.BillForms.BillDetailsForm.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.BillForms.BillEditForm.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.BillForms.BillEmployeeForm.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.BookEmployeeForm.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.CustomerEmployeeForm.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.HomeEmployeeForm.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.MenuEmployeeForm.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.EntryEditForm.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.LoginForm.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.RegisterForm.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.Properties.Resources.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.GenerateResource.cache
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.CoreCompileInputs.cache
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.CopyComplete
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.exe
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.pdb
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DeptReport.DeptReportAddForm.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DeptReport.DeptReportForm.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DeptReport.DeptReportDetail.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DeptReport.DeptReportPreAddForm.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReport.InventoryReportAddForm.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReport.InventoryReportDetailForm.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReport.InventoryReportForm.resources
+D:\For Exam\NMCNPM\New 2\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReport.InventoryReportPreAddForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\bin\Debug\BookstoreManagement.exe.config
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\bin\Debug\BookstoreManagement.exe
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\bin\Debug\BookstoreManagement.pdb
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\bin\Debug\Google.Protobuf.dll
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\bin\Debug\ZstdNet.dll
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\bin\Debug\BouncyCastle.Crypto.dll
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\bin\Debug\Ubiety.Dns.Core.dll
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\bin\Debug\System.Memory.dll
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\bin\Debug\System.Buffers.dll
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\bin\Debug\K4os.Compression.LZ4.dll
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\bin\Debug\K4os.Hash.xxHash.dll
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\bin\Debug\System.Numerics.Vectors.dll
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\bin\Debug\MySql.Data.xml
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.AssemblyReference.cache
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.SuggestedBindingRedirects.cache
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.exe.config
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.AboutForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.AccountDetailAdminForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DeptReport.DeptReportAddForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DeptReport.DeptReportDetail.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DeptReport.DeptReportForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DeptReport.DeptReportPreAddForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.AddNewEntryForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.BookAdminForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.CustomerAdminForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.EmployeeForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.EntryBookAdminForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.EntryDetailsForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.HomeAdminForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.MenuAdminForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.AccountDetailEmployeeForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.BillForms.AddNewBillForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.BillForms.AddNewBookForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.BillForms.BillDetailsForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.BillForms.BillEditForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.BillForms.BillEmployeeForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.BookEmployeeForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.CustomerEmployeeForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.HomeEmployeeForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.MenuEmployeeForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.EntryEditForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReport.InventoryReportAddForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReport.InventoryReportDetailForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReport.InventoryReportForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReport.InventoryReportPreAddForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.LoginForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.RegisterForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.Properties.Resources.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.GenerateResource.cache
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.CoreCompileInputs.cache
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.CopyComplete
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.exe
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.pdb
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.DeptNoteAdminForm.resources
+D:\phần mềm\New folder\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.RegulationsForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\bin\Debug\BookstoreManagement.exe.config
+D:\BookManage\BookstoreManagement\BookstoreManagement\bin\Debug\BookstoreManagement.exe
+D:\BookManage\BookstoreManagement\BookstoreManagement\bin\Debug\BookstoreManagement.pdb
+D:\BookManage\BookstoreManagement\BookstoreManagement\bin\Debug\MySql.Data.dll
+D:\BookManage\BookstoreManagement\BookstoreManagement\bin\Debug\Google.Protobuf.dll
+D:\BookManage\BookstoreManagement\BookstoreManagement\bin\Debug\ZstdNet.dll
+D:\BookManage\BookstoreManagement\BookstoreManagement\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\BookManage\BookstoreManagement\BookstoreManagement\bin\Debug\BouncyCastle.Crypto.dll
+D:\BookManage\BookstoreManagement\BookstoreManagement\bin\Debug\Ubiety.Dns.Core.dll
+D:\BookManage\BookstoreManagement\BookstoreManagement\bin\Debug\System.Memory.dll
+D:\BookManage\BookstoreManagement\BookstoreManagement\bin\Debug\System.Buffers.dll
+D:\BookManage\BookstoreManagement\BookstoreManagement\bin\Debug\K4os.Compression.LZ4.dll
+D:\BookManage\BookstoreManagement\BookstoreManagement\bin\Debug\K4os.Hash.xxHash.dll
+D:\BookManage\BookstoreManagement\BookstoreManagement\bin\Debug\System.Numerics.Vectors.dll
+D:\BookManage\BookstoreManagement\BookstoreManagement\bin\Debug\MySql.Data.xml
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.AssemblyReference.cache
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.exe.config
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.AboutForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.AccountDetailAdminForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.DeptNoteAdminForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.RegulationsForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DeptReport.DeptReportAddForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DeptReport.DeptReportDetail.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DeptReport.DeptReportForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DeptReport.DeptReportPreAddForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.AddNewEntryForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.BookAdminForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.CustomerAdminForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.EmployeeForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.EntryBookAdminForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.EntryDetailsForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.HomeAdminForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.MenuAdminForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.AccountDetailEmployeeForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.BillForms.AddNewBillForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.BillForms.AddNewBookForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.BillForms.BillDetailsForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.BillForms.BillEditForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.BillForms.BillEmployeeForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.BookEmployeeForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.CustomerEmployeeForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.HomeEmployeeForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Employee.MenuEmployeeForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.Admin.EntryEditForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReport.InventoryReportAddForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReport.InventoryReportDetailForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReport.InventoryReportForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReport.InventoryReportPreAddForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.LoginForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.RegisterForm.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.Properties.Resources.resources
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.GenerateResource.cache
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.CoreCompileInputs.cache
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.CopyComplete
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.exe
+D:\BookManage\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.pdb
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\bin\Debug\BookstoreManagement.exe.config
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\bin\Debug\BookstoreManagement.exe
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\bin\Debug\BookstoreManagement.pdb
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\bin\Debug\MySql.Data.dll
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\bin\Debug\Google.Protobuf.dll
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\bin\Debug\ZstdNet.dll
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\bin\Debug\BouncyCastle.Crypto.dll
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\bin\Debug\Ubiety.Dns.Core.dll
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\bin\Debug\System.Memory.dll
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\bin\Debug\System.Buffers.dll
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\bin\Debug\K4os.Compression.LZ4.dll
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\bin\Debug\K4os.Hash.xxHash.dll
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\bin\Debug\System.Numerics.Vectors.dll
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\bin\Debug\MySql.Data.xml
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.AssemblyReference.cache
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.exe.config
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.AboutForm.resources
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.LoginForm.resources
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.RegisterForm.resources
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.Properties.Resources.resources
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.GenerateResource.cache
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.CoreCompileInputs.cache
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.exe
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.pdb
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.MenuForm.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.AccountForm.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.HomeAdminForm.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.HomeEmployeeForm.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.BookForm.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.EntryForm.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.EntryEditForm.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.EntryDetailsForm.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.AddNewEntryForm.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.BillForm.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.BillEditForm.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.BillDetailsForm.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.AddNewBookForm.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.AddNewBillForm.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.CustomerForm.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DebtNoteForm.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.RegulationsForm.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.EmployeeForm.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DebtReportForm.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DebtReportAddForm.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DebtReportPreAddForm.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DebtReportDetail.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReportForm.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReportPreAddForm.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReportDetailForm.resources
+D:\STUDY\NMCNPM\PROJECT\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReportAddForm.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\bin\Debug\BookstoreManagement.exe.config
+D:\phần mềm\BookstoreManagement\BookstoreManagement\bin\Debug\BookstoreManagement.exe
+D:\phần mềm\BookstoreManagement\BookstoreManagement\bin\Debug\BookstoreManagement.pdb
+D:\phần mềm\BookstoreManagement\BookstoreManagement\bin\Debug\Google.Protobuf.dll
+D:\phần mềm\BookstoreManagement\BookstoreManagement\bin\Debug\ZstdNet.dll
+D:\phần mềm\BookstoreManagement\BookstoreManagement\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\phần mềm\BookstoreManagement\BookstoreManagement\bin\Debug\BouncyCastle.Crypto.dll
+D:\phần mềm\BookstoreManagement\BookstoreManagement\bin\Debug\Ubiety.Dns.Core.dll
+D:\phần mềm\BookstoreManagement\BookstoreManagement\bin\Debug\System.Memory.dll
+D:\phần mềm\BookstoreManagement\BookstoreManagement\bin\Debug\System.Buffers.dll
+D:\phần mềm\BookstoreManagement\BookstoreManagement\bin\Debug\K4os.Compression.LZ4.dll
+D:\phần mềm\BookstoreManagement\BookstoreManagement\bin\Debug\K4os.Hash.xxHash.dll
+D:\phần mềm\BookstoreManagement\BookstoreManagement\bin\Debug\System.Numerics.Vectors.dll
+D:\phần mềm\BookstoreManagement\BookstoreManagement\bin\Debug\MySql.Data.xml
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.AssemblyReference.cache
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.SuggestedBindingRedirects.cache
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.exe.config
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.AboutForm.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.AccountForm.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DebtNoteForm.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.RegulationsForm.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DebtReportAddForm.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DebtReportDetail.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DebtReportForm.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DebtReportPreAddForm.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.AddNewEntryForm.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.BookForm.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.CustomerForm.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.EmployeeForm.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.EntryForm.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.EntryDetailsForm.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.HomeAdminForm.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.AddNewBillForm.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.AddNewBookForm.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.BillDetailsForm.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.BillEditForm.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.BillForm.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.HomeEmployeeForm.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.EntryEditForm.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReportAddForm.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReportDetailForm.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReportForm.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReportPreAddForm.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.LoginForm.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.MenuForm.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.RegisterForm.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.Properties.Resources.resources
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.GenerateResource.cache
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.CoreCompileInputs.cache
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.CopyComplete
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.exe
+D:\phần mềm\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.pdb
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.AccountForm.resources
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DebtNoteForm.resources
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.RegulationsForm.resources
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DebtReportAddForm.resources
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DebtReportDetail.resources
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DebtReportForm.resources
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DebtReportPreAddForm.resources
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.AddNewEntryForm.resources
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.BookForm.resources
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.CustomerForm.resources
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.EmployeeForm.resources
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.EntryForm.resources
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.EntryDetailsForm.resources
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.HomeAdminForm.resources
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.AddNewBillForm.resources
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.AddNewBookForm.resources
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.BillDetailsForm.resources
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.BillEditForm.resources
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.BillForm.resources
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.HomeEmployeeForm.resources
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.EntryEditForm.resources
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReportAddForm.resources
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReportDetailForm.resources
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReportForm.resources
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReportPreAddForm.resources
+D:\STUDY\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.MenuForm.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\bin\Debug\BookstoreManagement.exe.config
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\bin\Debug\BookstoreManagement.exe
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\bin\Debug\BookstoreManagement.pdb
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\bin\Debug\Google.Protobuf.dll
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\bin\Debug\ZstdNet.dll
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\bin\Debug\BouncyCastle.Crypto.dll
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\bin\Debug\Ubiety.Dns.Core.dll
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\bin\Debug\System.Memory.dll
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\bin\Debug\System.Buffers.dll
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\bin\Debug\K4os.Compression.LZ4.dll
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\bin\Debug\K4os.Hash.xxHash.dll
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\bin\Debug\System.Numerics.Vectors.dll
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\bin\Debug\MySql.Data.xml
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.AssemblyReference.cache
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.exe.config
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.AboutForm.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.AccountForm.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DebtNoteForm.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.RegulationsForm.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DebtReportAddForm.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DebtReportDetail.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DebtReportForm.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DebtReportPreAddForm.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.AddNewEntryForm.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.BookForm.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.CustomerForm.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.EmployeeForm.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.EntryForm.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.EntryDetailsForm.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.HomeAdminForm.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.AddNewBillForm.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.AddNewBookForm.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.BillDetailsForm.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.BillEditForm.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.BillForm.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.HomeEmployeeForm.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.EntryEditForm.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReportAddForm.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReportDetailForm.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReportForm.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReportPreAddForm.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.LoginForm.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.MenuForm.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.RegisterForm.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.Properties.Resources.resources
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.GenerateResource.cache
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.CoreCompileInputs.cache
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.CopyComplete
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.exe
+D:\For Exam\NMCNPM\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.pdb
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\bin\Debug\BookstoreManagement.exe.config
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\bin\Debug\BookstoreManagement.exe
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\bin\Debug\BookstoreManagement.pdb
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\bin\Debug\ZstdNet.dll
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\bin\Debug\MySql.Data.xml
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.exe.config
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.AboutForm.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.AccountForm.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DebtNoteForm.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.RegulationsForm.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DebtReportAddForm.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DebtReportDetail.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DebtReportForm.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.DebtReportPreAddForm.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.AddNewEntryForm.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.BookForm.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.CustomerForm.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.EmployeeForm.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.EntryForm.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.EntryDetailsForm.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.HomeAdminForm.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.AddNewBillForm.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.AddNewBookForm.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.BillDetailsForm.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.BillEditForm.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.BillForm.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.HomeEmployeeForm.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.EntryEditForm.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReportAddForm.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReportDetailForm.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReportForm.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.InventoryReportPreAddForm.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.LoginForm.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.MenuForm.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.FORMS.RegisterForm.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.Properties.Resources.resources
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.exe
+C:\Users\Admin\Desktop\Group[25]\Source\BookstoreManagement\BookstoreManagement\obj\Debug\BookstoreManagement.pdb
